@@ -6,7 +6,7 @@ Amacım, karmaşık saldırı vektörlerini anlamak ve savunma mekanizmalarını
 
 ---
 
-### 🛠️ Yetenekler & Teknoloji Yığını
+### 🛠️ Yetenekler 
 
 * **Diller:** Python, Go, C, C#, Bash/Shell, JavaScript, Ruby, SQL
 * **Alanlar:** Network Security, Malware Analysis, Pentest Tool Development
