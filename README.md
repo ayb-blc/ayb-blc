@@ -1,20 +1,24 @@
-### Selam, ben Ayberk! 👋 | Security Enthusiast & Tool Developer
+### Hi, I'm Ayberk! 👋 | Penetration Tester & Security Tool Developer
 
-Siber güvenlik dünyasında sızma testleri, zafiyet araştırmaları ve otomasyon araçları üzerine yoğunlaşmış bir araştırmacıyım. Teknik becerilerimi gerçek dünya senaryolarıyla birleştirerek topluluğa katkı sağlamayı hedefliyorum.
+I'm a researcher focused on penetration testing, vulnerability research, and automation tools in the cybersecurity world. I aim to contribute to the community by combining technical knowledge with real-world scenarios.
 
-Amacım, karmaşık saldırı vektörlerini anlamak ve savunma mekanizmalarını test etmek için kendi güvenlik araçlarımı (Security Tools) yazmaktır. "Öğrenmek için üret" felsefesini benimsiyorum.
-
----
-
-### 🛠️ Yetenekler 
-
-* **Diller:** Python, Go, C, C#, Bash/Shell, JavaScript, Ruby, SQL
-* **Alanlar:** Network Security, Malware Analysis, Pentest Tool Development
-* **Araçlar:** Nmap, Metasploit, Burp Suite, Wireshark, Shodan, Nessus, Git, Linux
+My main goal is to design and develop custom security tools to create complex attack vectors and evaluate defensive mechanisms. I strongly believe in the mindset: **build to learn**.
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 🛠️Skills
+
+* **Role:** Penetration Tester 
+
+* **Fields:** Network Security • Malware Analysis • Pentesting Tool Development
+* 
+* **Primary Languages:** Python, Bash/Shell  
+* **Additional Experience:** Go, C, C#, JavaScript, Ruby, SQL
+
+* **Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Shodan, Nessus, Git, Linux
+---
+
+### 📊 My GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayb-blc&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ayberk's GitHub Stats" />
@@ -23,7 +27,7 @@ Amacım, karmaşık saldırı vektörlerini anlamak ve savunma mekanizmalarını
 
 ---
 
-### 🔗 Benimle İletişime Geç
+### 🔗 Contact me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ayberk-balcı-1672822b2/" target="_blank">
