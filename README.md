@@ -11,7 +11,7 @@ My main goal is to design and develop custom security tools to create complex at
 * **Role:** Penetration Tester 
 
 * **Fields:** Network Security • Malware Analysis • Pentesting Tool Development
-* 
+
 * **Primary Languages:** Python, Bash/Shell  
 * **Additional Experience:** Go, C, C#, JavaScript, Ruby, SQL
 
