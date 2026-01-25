@@ -1,4 +1,4 @@
-### Hi, I'm Ayberk! 👋 | Penetration Tester & Security Tool Developer
+### 🏴‍☠️ Hi, I'm Ayberk! 👋 | Penetration Tester & Security Tool Developer 🇹🇷
 
 I'm a researcher focused on penetration testing, vulnerability research, and automation tools in the cybersecurity world. I aim to contribute to the community by combining technical knowledge with real-world scenarios.
 
@@ -33,7 +33,7 @@ My main goal is to design and develop custom security tools to create complex at
   <a href="https://www.linkedin.com/in/ayberk-balcı-1672822b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://tryhackme.com/p/Tradiax" target="_blank">
+  <a href="https://tryhackme.com/p/M3RG3N" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-C12127?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
   <a href="mailto:balciayberk06@gmail.com">
