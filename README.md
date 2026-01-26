@@ -13,7 +13,7 @@ My main goal is to design and develop custom security tools to create complex at
 * **Fields:** Network Security • Malware Analysis • Pentesting Tool Development
 
 * **Primary Languages:** Python, Bash/Shell  
-* **Additional Experience:** Go, C, C#, JavaScript, Ruby, SQL
+* **Additional Experience:** Go, C, C++, JavaScript, Ruby, SQL
 
 * **Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Shodan, Nessus, Git, Linux
 ---
