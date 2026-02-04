@@ -22,9 +22,11 @@ My main goal is to design and develop custom security tools to create complex at
 
 <div align="center">
 
-[![Ayberk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayb-blc&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/ayb-blc)
+  <img src="https://streak-stats.demolab.com?user=ayb-blc&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayb-blc&layout=compact&theme=dark&hide_border=true)](https://github.com/ayb-blc)
+  <br>
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayb-blc&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 
 </div>
 
