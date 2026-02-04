@@ -20,14 +20,13 @@ My main goal is to design and develop custom security tools to create complex at
 
 ### 📊 My GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/ayb-blc">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayb-blc&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ayberk's GitHub Stats" />
-  </a>
-  <a href="https://github.com/ayb-blc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayb-blc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+
+[![Ayberk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayb-blc&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/ayb-blc)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayb-blc&layout=compact&theme=dark&hide_border=true)](https://github.com/ayb-blc)
+
+</div>
 
 ---
 
